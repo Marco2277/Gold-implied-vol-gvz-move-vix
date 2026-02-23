@@ -482,3 +482,5 @@ run_pipeline_B <- function(config, regressors, log_path = NULL) {
     log_path = log_path
   )
 }
+
+                          
